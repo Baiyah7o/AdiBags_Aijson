@@ -1,0 +1,8 @@
+package-as: AdiBags_Ayson
+
+externals:
+
+ignore:
+  - "*.xcf"
+  - .gitignore
+  - icon.svg

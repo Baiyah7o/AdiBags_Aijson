@@ -1,0 +1,25 @@
+## Interface: 100100
+
+## Title: AdiBags - Ayson
+## Notes: AdiBags filter for common personal items.
+## Version: @project-version@ns\inv_misc_bag_06
+
+## DefaultState: Enabled
+## Dependencies: AdiBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+## IconTexture:  Interface\Addons\AdiBags_Ayson\icon.png
+
+
+Database.lua
+Localization.lua
+Main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
