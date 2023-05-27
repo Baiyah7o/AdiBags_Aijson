@@ -560,7 +560,6 @@ addon.db = {
 		194893, -- Imported Dragonflight Spare Overseer's Writhebark Stave
 		195543, -- Imported Dragonflight Spare Riptide Brew
 		197758, -- Imported Dragonflight Spare Twice-Baked Potato
-		197760, -- Imported Dragonflight Spare Mackerel Snackerel
 		197763, -- Imported Dragonflight Spare Breakfast of Draconic Champions
 		197771, -- Imported Dragonflight Spare Delicious Dragon Spittle
 		197775, -- Imported Dragonflight Spare Scrambled Basilisk Eggs
@@ -910,6 +909,11 @@ addon.db = {
 		90800,  -- Imported Dragonflight Spare Slipshod Plate Gloves
 		90808,  -- Imported Dragonflight Spare Bent-Barrel Rifle
 		9295,   -- Imported Dragonflight Spare Recipe: Invisibility Potio
+		192655,	-- Chilling Spider Leg
+		197760, -- Mackerel Snackerel
+		197757, -- Assod Exotic Spices
+		197788, -- Braised Buffalon Brisket
+		197790, -- Roast Duck Delight
 		},
 	},
 	raid_consumables_stock_5_warlock = {
@@ -926,7 +930,6 @@ addon.db = {
 		200032,	-- Consumables Raid Common 05 Enchant Cloak - Homebound Speed
 		200038,	-- Consumables Raid Common 05 Enchant Ring - Devotion of Haste
 		200054,	-- Consumables Raid Common 05 Enchant Weapon - Sophic Devotion
-		192655,	-- Consumables Raid Aijson 05 Chilling Spider Leg
 		193565,	-- Consumables Raid Aijson 05 Fierce Armor Kit
 		200037,	-- Consumables Raid Aijson 05 Enchant Ring - Devotion of Critical Strike
 		29739,  -- Consumables Raid Aijson 05 Arcane Tome
