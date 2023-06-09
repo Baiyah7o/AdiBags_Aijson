@@ -589,7 +589,6 @@ addon.db = {
 		201404, -- Imported Dragonflight Spare Tallstrider Sinew
 		201410, -- Imported Dragonflight Spare Powerful Purple Thing
 		201422, -- Imported Dragonflight Spare Flash Frozen Meat
-		201424, -- Imported Dragonflight Spare Unusable Plant Matter
 		201721, -- Imported Dragonflight Spare Life Fire Latte
 		201741, -- Imported Dragonflight Spare Technique: Renewed Proto-Drake: Bovine Horns
 		201742, -- Imported Dragonflight Spare Technique: Renewed Proto-Drake: Silver and Blue Armor
@@ -914,6 +913,8 @@ addon.db = {
 		197757, -- Assod Exotic Spices
 		197788, -- Braised Buffalon Brisket
 		197790, -- Roast Duck Delight
+		205686, -- Clacking Claw
+		191385, -- Aerated Mana Potion
 		},
 	},
 	raid_consumables_stock_5_warlock = {
