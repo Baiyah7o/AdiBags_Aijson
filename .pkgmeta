@@ -6,3 +6,4 @@ ignore:
   - "*.xcf"
   - .gitignore
   - icon.svg
+  - pullfromlive.sh
